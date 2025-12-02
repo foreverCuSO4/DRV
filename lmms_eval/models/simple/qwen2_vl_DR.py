@@ -28,7 +28,7 @@ except ImportError:
 ###################################################################
 # Qwen2_VL_DR Model
 # Parameter setting area.
-scale_factor_default: float = 0.5  # Define scale_factor globally for the module
+scale_factor_default: float = 0.25  # Define scale_factor globally for the module
 ###################################################################
 
 
