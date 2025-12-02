@@ -1,6 +1,5 @@
 # Run and exactly reproduce qwen2vl results!
 # mme as an example
-# export HF_TOKEN="Here you should put your huggingface token"
 
 pip3 install qwen_vl_utils
 export CUDA_VISIBLE_DEVICES=3
